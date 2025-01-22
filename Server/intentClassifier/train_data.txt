@@ -1,0 +1,433 @@
+__label__inquiry What is the price of the product?
+__label__inquiry Can you tell me the cost of this item?
+__label__inquiry How much does this product cost?
+__label__inquiry Is there any discount on this product?
+__label__inquiry What is the total price including taxes?
+__label__inquiry Can I get a quote for bulk orders?
+__label__inquiry Is there a warranty included with the product?
+__label__inquiry What payment methods do you accept?
+__label__inquiry Are there any additional fees I should be aware of?
+__label__inquiry Can I track my order online?
+__label__complaint The product arrived damaged.
+__label__complaint I received a broken item in my order.
+__label__complaint The item is defective, and I need a replacement.
+__label__complaint I am not satisfied with the quality of the product.
+__label__complaint My order is incomplete; some items are missing.
+__label__complaint My order hasn’t arrived yet.
+__label__complaint The product doesn’t match the description.
+__label__complaint I want to report a delayed shipment.
+__label__complaint The customer service was unhelpful.
+__label__complaint The packaging was torn upon arrival.
+__label__greeting Hello, how are you?
+__label__greeting Hi there! How's it going?
+__label__greeting Good morning, how's everything?
+__label__greeting Hey! Hope you're doing well.
+__label__greeting Hello! Nice to meet you.
+__label__greeting Hi there, good to see you!
+__label__greeting Greetings! How can I assist you today?
+__label__greeting Hey! How’s everything going?
+__label__greeting Hello! Hope you’re having a great day.
+__label__greeting Good evening, what’s new with you?
+__label__generate_image Generate an image of a sunset.
+__label__generate_image Create a picture of a forest in the morning.
+__label__generate_image Can you make a drawing of a beach at night?
+__label__generate_image I need an illustration of a mountain during sunrise.
+__label__generate_image Generate a visual of a cityscape at dusk.
+__label__generate_image Can you design an image of a futuristic city?
+__label__generate_image I need a graphic of a lush green valley.
+__label__generate_image Draw me a starry night sky with a comet.
+__label__generate_image Create a concept art of a sci-fi spaceship.
+__label__generate_image Generate a sketch of a traditional village scene.
+__label__latest_news What are the latest news updates?
+__label__latest_news Can you share the most recent headlines?
+__label__latest_news What’s happening in the world today?
+__label__latest_news Show me the breaking news right now.
+__label__latest_news Give me an update on today’s top stories.
+__label__latest_news What’s the latest in technology news?
+__label__latest_news Are there updates on the stock market today?
+__label__latest_news Tell me about the trending topics this week.
+__label__latest_news Any news about the recent elections?
+__label__latest_news What’s the latest update on the weather forecast?
+__label__general_question What is the capital of France?
+__label__general_question Who invented the telephone?
+__label__general_question What’s the tallest mountain in the world?
+__label__general_question Can you tell me the population of Germany?
+__label__general_question How does photosynthesis work?
+__label__general_question How far is the moon from Earth?
+__label__general_question Who painted the Mona Lisa?
+__label__general_question What is the boiling point of water?
+__label__general_question Which country has the largest population?
+__label__general_question Why does the sky appear blue?
+__label__inquiry Can I get a sample before ordering?
+__label__inquiry What are your shipping rates to international locations?
+__label__inquiry Do you offer installment payment plans?
+__label__inquiry When will this item be back in stock?
+__label__inquiry Is there a money-back guarantee?
+__label__inquiry Can you explain the return policy?
+__label__inquiry What's the estimated delivery time?
+__label__inquiry Do you offer gift wrapping services?
+__label__inquiry Are there any ongoing promotions?
+__label__inquiry Can I modify my order after placing it?
+__label__complaint The color doesn't match what was shown online
+__label__complaint No one has responded to my emails for a week
+__label__complaint I was charged twice for my order
+__label__complaint The size chart was inaccurate
+__label__complaint The product stopped working after two days
+__label__complaint I never received an order confirmation
+__label__complaint The customer support line is always busy
+__label__complaint Wrong items were sent in my package
+__label__complaint The refund hasn't been processed yet
+__label__complaint The warranty card is missing from the package
+__label__greeting Good afternoon! What brings you here today?
+__label__greeting Welcome back! How may I help you?
+__label__greeting Hi! Is there anything specific you're looking for?
+__label__greeting Good day! What can I do for you?
+__label__greeting Hello there! Ready to assist you
+__label__greeting Hi! Thanks for reaching out
+__label__greeting Welcome! How can we make your day better?
+__label__greeting Morning! What's on your mind today?
+__label__greeting Hey there! Need any help?
+__label__greeting Hello! Looking forward to assisting you
+__label__generate_image Could you create an image of a rainforest waterfall?
+__label__generate_image Make a picture of a medieval castle
+__label__generate_image Generate an artwork of underwater marine life
+__label__generate_image Design an image of a cozy winter cabin
+__label__generate_image Create a picture of a blooming garden
+__label__generate_image Draw an autumn forest scene
+__label__generate_image Generate an image of northern lights
+__label__generate_image Make an illustration of a desert oasis
+__label__generate_image Create a picture of a tropical island
+__label__generate_image Design an image of a rustic farmhouse
+
+
+__label__inquiry What is the price of the product?
+__label__inquiry Can you tell me the cost of this item?
+__label__inquiry How much does this product cost?
+__label__inquiry Is there any discount on this product?
+__label__inquiry What is the total price including taxes?
+__label__inquiry Can I get a quote for bulk orders?
+__label__inquiry Is there a warranty included with the product?
+__label__inquiry What payment methods do you accept?
+__label__inquiry Are there any additional fees I should be aware of?
+__label__inquiry Can I track my order online?
+__label__inquiry Can I get a sample before ordering?
+__label__inquiry What are your shipping rates to international locations?
+__label__inquiry Do you offer installment payment plans?
+__label__inquiry When will this item be back in stock?
+__label__inquiry Is there a money-back guarantee?
+__label__inquiry Can you explain the return policy?
+__label__inquiry What's the estimated delivery time?
+__label__inquiry Do you offer gift wrapping services?
+__label__inquiry Are there any ongoing promotions?
+__label__inquiry Can I modify my order after placing it?
+__label__inquiry Can I get a discount if I order in bulk?
+__label__inquiry What is the return policy for this product?
+__label__inquiry Do you offer free shipping for orders over $50?
+__label__inquiry How can I contact customer support?
+__label__inquiry Is this product available in other colors?
+__label__inquiry Can I cancel my order after placing it?
+__label__inquiry What is the warranty period for this item?
+__label__inquiry Are there any hidden fees in the total price?
+__label__inquiry Can I change the shipping address after ordering?
+__label__inquiry What is the estimated delivery time for my location?
+
+__label__complaint The product arrived damaged.
+__label__complaint I received a broken item in my order.
+__label__complaint The item is defective, and I need a replacement.
+__label__complaint I am not satisfied with the quality of the product.
+__label__complaint My order is incomplete; some items are missing.
+__label__complaint My order hasn’t arrived yet.
+__label__complaint The product doesn’t match the description.
+__label__complaint I want to report a delayed shipment.
+__label__complaint The customer service was unhelpful.
+__label__complaint The packaging was torn upon arrival.
+__label__complaint The color doesn't match what was shown online.
+__label__complaint No one has responded to my emails for a week.
+__label__complaint I was charged twice for my order.
+__label__complaint The size chart was inaccurate.
+__label__complaint The product stopped working after two days.
+__label__complaint I never received an order confirmation.
+__label__complaint The customer support line is always busy.
+__label__complaint Wrong items were sent in my package.
+__label__complaint The refund hasn't been processed yet.
+__label__complaint The warranty card is missing from the package.
+__label__complaint The product I received is not as described.
+__label__complaint The item is missing parts from the package.
+__label__complaint The product stopped working after a week.
+__label__complaint I was overcharged for my purchase.
+__label__complaint The delivery was delayed without any notice.
+__label__complaint The product is not compatible with my device.
+__label__complaint The customer service representative was rude.
+__label__complaint The product packaging was damaged during shipping.
+__label__complaint I received the wrong size of the product.
+__label__complaint The product does not meet my expectations.
+
+__label__greeting Hello, how are you?
+__label__greeting Hi there! How's it going?
+__label__greeting Good morning, how's everything?
+__label__greeting Hey! Hope you're doing well.
+__label__greeting Hello! Nice to meet you.
+__label__greeting Hi there, good to see you!
+__label__greeting Greetings! How can I assist you today?
+__label__greeting Hey! How’s everything going?
+__label__greeting Hello! Hope you’re having a great day.
+__label__greeting Good evening, what’s new with you?
+__label__greeting Good afternoon! What brings you here today?
+__label__greeting Welcome back! How may I help you?
+__label__greeting Hi! Is there anything specific you're looking for?
+__label__greeting Good day! What can I do for you?
+__label__greeting Hello there! Ready to assist you.
+__label__greeting Hi! Thanks for reaching out.
+__label__greeting Welcome! How can we make your day better?
+__label__greeting Morning! What's on your mind today?
+__label__greeting Hey there! Need any help?
+__label__greeting Hello! Looking forward to assisting you.
+__label__greeting Good morning! How can I assist you today?
+__label__greeting Hi! Is there anything I can help you with?
+__label__greeting Hello! What brings you here today?
+__label__greeting Hey! How can I make your day better?
+__label__greeting Good afternoon! Ready to assist you.
+__label__greeting Hi there! What can I do for you?
+__label__greeting Hello! How may I help you today?
+__label__greeting Hey there! Need any assistance?
+__label__greeting Good evening! What’s on your mind?
+__label__greeting Hi! Thanks for reaching out to us.
+
+__label__generate_image Generate an image of a sunset.
+__label__generate_image Create a picture of a forest in the morning.
+__label__generate_image Can you make a drawing of a beach at night?
+__label__generate_image I need an illustration of a mountain during sunrise.
+__label__generate_image Generate a visual of a cityscape at dusk.
+__label__generate_image Can you design an image of a futuristic city?
+__label__generate_image I need a graphic of a lush green valley.
+__label__generate_image Draw me a starry night sky with a comet.
+__label__generate_image Create a concept art of a sci-fi spaceship.
+__label__generate_image Generate a sketch of a traditional village scene.
+__label__generate_image Could you create an image of a rainforest waterfall?
+__label__generate_image Make a picture of a medieval castle.
+__label__generate_image Generate an artwork of underwater marine life.
+__label__generate_image Design an image of a cozy winter cabin.
+__label__generate_image Create a picture of a blooming garden.
+__label__generate_image Draw an autumn forest scene.
+__label__generate_image Generate an image of northern lights.
+__label__generate_image Make an illustration of a desert oasis.
+__label__generate_image Create a picture of a tropical island.
+__label__generate_image Design an image of a rustic farmhouse.
+__label__generate_image Can you create an image of a futuristic city at night?
+__label__generate_image Generate a picture of a serene lake surrounded by mountains.
+__label__generate_image Draw an image of a bustling marketplace.
+__label__generate_image Create an illustration of a magical forest.
+__label__generate_image Design a picture of a modern office space.
+__label__generate_image Generate an artwork of a starry galaxy.
+__label__generate_image Make an image of a peaceful countryside.
+__label__generate_image Draw a picture of a vibrant coral reef.
+__label__generate_image Create an illustration of a historical monument.
+__label__generate_image Design an image of a cozy coffee shop.
+
+__label__latest_news What are the latest news updates?
+__label__latest_news Can you share the most recent headlines?
+__label__latest_news What’s happening in the world today?
+__label__latest_news Show me the breaking news right now.
+__label__latest_news Give me an update on today’s top stories.
+__label__latest_news What’s the latest in technology news?
+__label__latest_news Are there updates on the stock market today?
+__label__latest_news Tell me about the trending topics this week.
+__label__latest_news Any news about the recent elections?
+__label__latest_news What’s the latest update on the weather forecast?
+__label__latest_news What are the latest updates on the global economy?
+__label__latest_news Can you share the most recent sports news?
+__label__latest_news What’s the latest in the entertainment industry?
+__label__latest_news Show me the top news stories of the day.
+__label__latest_news Give me an update on the latest scientific discoveries.
+__label__latest_news What’s the latest news about climate change?
+__label__latest_news Are there any updates on the current political situation?
+__label__latest_news Tell me about the latest trends in fashion.
+__label__latest_news What’s the latest in the world of technology?
+__label__latest_news Can you share updates on recent space exploration?
+
+__label__general_question What is the capital of France?
+__label__general_question Who invented the telephone?
+__label__general_question What’s the tallest mountain in the world?
+__label__general_question Can you tell me the population of Germany?
+__label__general_question How does photosynthesis work?
+__label__general_question How far is the moon from Earth?
+__label__general_question Who painted the Mona Lisa?
+__label__general_question What is the boiling point of water?
+__label__general_question Which country has the largest population?
+__label__general_question Why does the sky appear blue?
+__label__general_question What is the largest ocean on Earth?
+__label__general_question Who wrote the play "Romeo and Juliet"?
+__label__general_question What is the chemical formula for water?
+__label__general_question How do plants convert sunlight into energy?
+__label__general_question What is the speed of sound in air?
+__label__general_question Who discovered penicillin?
+__label__general_question What is the largest planet in the solar system?
+__label__general_question How does the human digestive system work?
+__label__general_question What is the capital of Japan?
+__label__general_question Why do leaves change color in the fall?
+
+
+__label__programming  Write a Python code to calculate the factorial of a number.
+
+__label__programming  Generate a C++ code to reverse a string.
+
+__label__programming  Create a JavaScript function to validate an email address.
+
+__label__programming  Write a React component to display a list of items.
+
+__label__programming  Generate a PHP script to connect to a MySQL database.
+
+__label__programming  Write a Python code to generate a random password.
+
+__label__programming  Create a C++ program to find the largest number in an array.
+
+__label__programming  Write a JavaScript code to fetch data from an API.
+__label__programming  Generate a React code to create a simple counter.
+__label__programming  Write a PHP script to upload a file to a server.
+__label__programming  Write a Python code to generate an image using the Pillow library.
+__label__programming  Create a C++ program to implement a basic calculator.
+__label__programming  Generate a JavaScript code to create a countdown timer.
+__label__programming  Write a React component to display a form with validation.
+__label__programming  Create a PHP script to handle user login and registration.
+__label__programming  Write a Python code to scrape data from a website and save it in a CSV file.
+__label__programming  Generate a C++ code to implement a linked list.
+__label__programming  Write a JavaScript code to create a simple Tic-Tac-Toe game.
+__label__programming  Create a React code to fetch data from a REST API and display it in a table.
+__label__programming  Write a PHP script to send an email using SMTP.
+__label__programming  Write a Python code to connect to a Wi-Fi network.
+__label__programming  Generate a C++ code to sort an array using the Quick Sort algorithm.
+__label__programming  Create a JavaScript code to animate a bouncing ball on an HTML canvas.
+__label__programming  Write a React code to implement a dark mode toggle.
+__label__programming  Generate a PHP script to generate a PDF file from HTML content.
+__label__programming  Write a Python code to create a simple chatbot using NLTK.
+__label__programming  Create a C++ code to simulate a basic banking system.
+__label__programming  Write a JavaScript code to create a slideshow of images.
+__label__programming  Generate a React code to implement a search bar with autocomplete.
+__label__programming  Write a PHP script to handle file downloads securely.
+__label__programming  Write a Python code to generate a QR code
+__label__programming  Create a C++ code to implement a stack data structure.
+__label__programming  Generate a JavaScript code to create a weather app using an API.
+__label__programming  Write a React code to create a responsive navigation bar.
+__label__programming  Create a PHP script to handle user authentication using JWT.
+__label__programming  Write a Python code to create a simple web server using Flask.
+__label__programming  Generate a C++ code to implement a binary search algorithm.
+__label__programming  Write a JavaScript code to create a drag-and-drop interface.
+__label__programming  Create a React code to implement a modal dialog box.
+__label__programming  Write a PHP script to generate a CSV file from database data.
+__label__programming  Write a Python code to create a simple web scraper hat extracts all links from a webpage.
+__label__programming  Generate a JavaScript code to create a responsive navigation menu for a website.
+__label__programming  Write a React code to build a blog post page with comments section.
+__label__programming  Create a PHP script to handle user registration with email verification.
+__label__programming  Write a Python code to generate a bar chart using Matplotlib.
+
+__label__programming  Generate a C++ code to implement a basic file encryption system.
+
+__label__programming  Write a JavaScript code to create a dark/light mode toggle for a website.
+
+__label__programming  Create a React code to display a dashboard with charts and statistics.
+
+__label__programming  Write a PHP script to handle file uploads with size and type validation.
+
+__label__programming  Write a Python code to send an email with an attachment using SMTP.
+
+__label__programming  Generate a JavaScript code to create a carousel slider for images.
+
+__label__programming  Write a React code to implement a login form with social media buttons.
+
+__label__programming  Create a PHP script to generate a dynamic sitemap for a website.
+
+__label__programming  Write a Python code to create a simple chatbot using TensorFlow.
+
+__label__programming  Generate a C++ code to simulate a basic ATM machine.
+
+__label__programming  Write a JavaScript code to create a real-time chat application using WebSocket.
+
+__label__programming  Create a React code to build a shopping cart with product listings.
+
+__label__programming  Write a PHP script to handle user password reset functionality.
+
+__label__programming  Write a Python code to create a simple REST API using Flask.
+
+__label__programming  Generate a JavaScript code to create a progress bar for file uploads.
+
+__label__programming  Write a React code to implement a multi-step form for user registration.
+
+__label__programming  Create a PHP script to generate a dynamic PDF invoice.
+
+__label__programming  Write a Python code to create a simple game like Snake using Pygame.
+
+__label__programming  Generate a C++ code to implement a basic encryption algorithm like Caesar Cipher.
+
+__label__programming  Write a JavaScript code to create a dropdown menu with animations.
+
+__label__programming  Create a React code to display a calendar with event management.
+
+__label__programming  Write a PHP script to handle user profile updates with image upload.
+
+__label__programming  Write a Python code to create a simple web crawler.
+
+__label__programming  Generate a JavaScript code to create a sticky header for a webpage.
+
+__label__programming  Write a React code to implement a search filter for a product list.
+
+__label__programming  Create a PHP script to handle user logout and session management.
+
+__label__programming  Write a Python code to create a simple weather app using an API.
+
+__label__programming  Generate a C++ code to implement a basic graph data structure.
+
+__label__programming  Write a JavaScript code to create a popup modal for user notifications.
+
+__label__programming  Create a React code to build a user profile page with editable fields.
+
+__label__programming  Write a PHP script to handle user role-based access control.
+
+__label__programming  Write a Python code to create a simple URL shortener.
+
+__label__programming  Generate a JavaScript code to create a parallax scrolling effect.
+
+__label__programming  Write a React code to implement a pagination system for a table.
+
+__label__programming  Create a PHP script to handle user feedback submission and storage.
+
+
+
+__label__programming  Write a Python code to create a simple file manager with CRUD operations.
+
+__label__programming  Generate a JavaScript code to create a drag-and-drop file uploader.
+
+__label__programming  Write a React code to implement a rating system for products.
+
+__label__programming  Create a PHP script to handle user subscription to a newsletter.
+
+__label__programming  Write a Python code to create a simple music player using Tkinter.
+
+__label__programming  Generate a C++ code to implement a basic sorting algorithm like Merge Sort.
+
+__label__programming  Write a JavaScript code to create a timeline for displaying events.
+
+__label__programming  Create a React code to build a responsive image gallery.
+
+__label__programming  Write a PHP script to handle user account deletion with confirmation.
+
+__label__programming  Write a Python code to create a simple expense tracker.
+
+__label__programming  Generate a JavaScript code to create a custom video player.
+
+__label__programming  Write a React code to implement a user activity log.
+
+__label__programming  Create a PHP script to handle user preferences and settings.
+
+__label__programming  Write a Python code to create a simple text editor.
+
+__label__programming  Generate a C++ code to implement a basic queue data structure.
+
+__label__programming  Write a JavaScript code to create a custom audio player.
+
+__label__programming  Create a React code to build a user dashboard with widgets.
+
+__label__programming  Write a PHP script to handle user activity tracking.
+
+__label__programming  Write a Python code to create a simple quiz application.
+
+__label__programming  Generate a JavaScript code to create a custom scrollbar.
