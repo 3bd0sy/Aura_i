@@ -1,7 +1,8 @@
 /* eslint-disable react/prop-types */
-import { useContext, useEffect, useRef } from "react";
+import React,{ useContext, useEffect, useRef } from "react";
 import Message from "./Components/Message";
-import Chat from "./Components/Chat";
+// import Chat from "./Components/Chat";
+const Chat = React.lazy(() => import("./Components/Chat"));
 import AppContext from "./Components/AppContext";
 const Loader = () => {
   return (

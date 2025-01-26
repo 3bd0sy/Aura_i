@@ -13,7 +13,10 @@ const Chat = () => {
 
   const handleSendMessage = async (e) => {
     e.preventDefault();
-    if (!message.trim()) return;
+    if (!message.trim()) {
+      alert("Please enter a valid message.");
+      return;
+    }
     createNewPost(true, "text", message);
     setUserMessage("");
     handleMessage("text", message);

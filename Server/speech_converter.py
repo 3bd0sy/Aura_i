@@ -3,6 +3,7 @@ import pyttsx3
 import speech_recognition as sr
 import os
 import logging
+from pydub import AudioSegment
 
 # from server import speech
 
@@ -32,6 +33,8 @@ class SpeechConverter:
             engine.save_to_file(text, temp_file)
             engine.runAndWait()
             audio_buffer = BytesIO()
+            audio = AudioSegment.from_file(temp_file)
+            duration = len(audio) / 1000  # Convert milliseconds to seconds
             with open(temp_file, 'rb') as f:
                 audio_buffer.write(f.read())
                 audio_buffer.seek(0)

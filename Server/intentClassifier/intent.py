@@ -1,6 +1,5 @@
 import fasttext
 
-# تحضير البيانات التدريبية
 train_data = [
     "__label__inquiry What is the price of the product?",
     "__label__inquiry Can you tell me the cost of this item?",
@@ -70,21 +69,18 @@ train_data = [
 ]
 
 
-# حفظ البيانات في ملف
 # with open("train_data.txt", "w", encoding="utf-8") as f:
 #     for line in train_data:
 #         f.write(line + "\n")
 
-# تدريب النموذج
 model = fasttext.train_supervised(input="train_data.txt",
-                                  epoch=50,  # زيادة عدد الـ epochs
-                                  dim=50,  # تقليل الأبعاد إلى 50
-                                  lr=0.1,    # زيادة معدل التعلم
-                                  wordNgrams=2  # استخدام bigram
+                                  epoch=50,
+                                  dim=50,
+                                  lr=0.1,
+                                  wordNgrams=2
                                   )
 model.save_model("intent_classifier.bin")
 
-# اختبار النموذج
 test_texts = [
     "Hello, how are you?",
     "The product arrived damaged.",

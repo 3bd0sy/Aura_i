@@ -30,11 +30,11 @@ class ChatBot:
         """
         Initialize the ChatBot with the API token and configure the generative model.
         """
-        GOOGLE_API_TOKEN = os.getenv('GOOGLE_API_TOKEN')
-        if not GOOGLE_API_TOKEN:
-            raise ValueError("API_TOKEN not found in environment variables.")
-        genai.configure(api_key=GOOGLE_API_TOKEN)
-        self.llm = genai.GenerativeModel(model_name="gemini-1.5-flash-latest")
+        # GOOGLE_API_TOKEN = os.getenv('GOOGLE_API_TOKEN')
+        # if not GOOGLE_API_TOKEN:
+        #     raise ValueError("API_TOKEN not found in environment variables.")
+        # genai.configure(api_key=GOOGLE_API_TOKEN)
+        # self.llm = genai.GenerativeModel(model_name="gemini-1.5-flash-latest")
         self.template = """
         You are a smart chatbot that responds in English.
         Your response should be concise and limited to a maximum of 60 words.
@@ -56,6 +56,7 @@ class ChatBot:
             RuntimeError: If an error occurs during the AI chat process.
         """
         #return "Send the user message to the AI and return the response."
+        return generate_text(user_input)
         messages = [
             {"text": self.template},
             {"text": user_input},

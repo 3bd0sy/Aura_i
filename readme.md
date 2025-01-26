@@ -213,6 +213,6 @@ To get started with this project, follow these steps:
 
 For any questions or issues, please open an issue on the GitHub repository or contact the project maintainers.
 
-by _Abdulbasit Abdulghani_: [linkedin](www.linkedin.com/in/abdulbasit-abdulgani)
+by _Abdulbasit Abdulghani_: [linkedin](https://www.linkedin.com/in/abdulbasit-abdulgani)
 
 ---

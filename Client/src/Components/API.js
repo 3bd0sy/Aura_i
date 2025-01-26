@@ -74,13 +74,25 @@ export function useMessageHandler() {
         );
       } else {
         console.error("Error: Unknown response type", response_type);
+        createNewPost(
+          false,
+          "error",
+          "An unknown error occurred during processing."
+        );
       }
     } catch (error) {
+      let errorMessage = "An unexpected error occurred.";
       if (error.response) {
-        console.error("Server Error Details:", error.response.data);
+        errorMessage = `${error.response.data.error}  status: ${error.response.status}`;
+        console.error("Server Error Details:", error.response.data.error);
         console.error("Response Status:", error.response.status);
         console.error("Response Headers:", error.response.headers);
+      } else if (error.request) {
+        errorMessage = "No response received from the server.";
+      } else {
+        errorMessage = error.message || "Error in sending the request.";
       }
+      createNewPost(false, "error", errorMessage);
       console.error("Error uploading audio:", error);
     } finally {
       setIsLoading(false);

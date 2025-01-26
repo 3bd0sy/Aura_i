@@ -6,6 +6,7 @@ import { dracula } from "react-syntax-highlighter/dist/esm/styles/prism";
 
 const MarkDownDisplay = ({ message }) => {
   return (
+    <h5 className="text-gray-100 bg-gray-600 p-2 rounded-lg max-w-[800px] text-base font-normal leading-snug">
       <ReactMarkdown
         components={{
           code({ node, inline, className, children, ...props }) {
@@ -33,6 +34,7 @@ const MarkDownDisplay = ({ message }) => {
       >
         {message}
       </ReactMarkdown>
+    </h5>
   );
 };
 
